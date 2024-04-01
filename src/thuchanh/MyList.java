@@ -1,3 +1,5 @@
+package thuchanh;
+
 import java.util.Arrays;
 
 public class MyList<E> {
